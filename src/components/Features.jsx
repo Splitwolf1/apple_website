@@ -33,7 +33,7 @@ const Features = () => {
     <section className="h-full common-padding bg-gray-300 relative overflow-hidden">
     <div className='screen-max-width'>
         <h1 id="features_title"
-            classname="section-heading">Explore the full story.
+            className="section-heading">Explore the full story.
 
         </h1>
 
